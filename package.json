@@ -1,0 +1,15 @@
+{
+  "name": "njphotoart",
+  "version": "1.0.0",
+  "description": "Website portfolio for photography",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Antonis Mazellari",
+  "license": "ISC",
+  "homepage": "https://rmazellari.github.io/njphotoart",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
